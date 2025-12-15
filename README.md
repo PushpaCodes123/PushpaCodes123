@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Pushparanjan Bishwokarma</h1>
+<p align="center">Full-stack developer in the making — b
+uilding, breaking, and learning along the way.</p>
 
-<!--
-**PushpaCodes123/PushpaCodes123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔨 Working on personal and open-source projects
+- 🌱 Learning: **Spring Boot**, **Android (Kotlin)**, **Full-stack Development**
+- 🤝 Open to collaboration on impactful dev tools, web apps & Android projects
+- 📫 Reach me at: **pushparanjanbishwakarma@gmailcom**  
+- ⚡ Outside tech: cricket, problem-solving, and figuring out life one bug at a time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🌎 Connect with Me
+<p align="center">
+<a href="https://facebook.com/aashiq4u.admin.153"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" /></a>
+<a href="https://instagram.com/totallynotheisenberg/"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/aashik-thakur-6568452a5"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hello@aashikthakur.com.np"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 Tech & Tools
+<p align="center">
+  
+**Frontend:** React, TailwindCSS, HTML, CSS, JavaScript  
+**Backend:** Java, Spring Boot, PHP  
+**Databases:** MySQL, MS SQL Server  
+**Other:** Git, GitHub, AWS, Cloudflare, Android (Kotlin Learning)
+</p>
+
+---
+
+### 📊 Stats
+<p align="center">
+  <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=CodeByAashik&theme=dark&hide_border=false" />
+</p>
+
+---
+
+### 💬 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">👀 Visitor count: </p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=PushpaCodes123" /></p>
